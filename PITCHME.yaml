@@ -1,0 +1,5 @@
+logo: assets/images/logo.png
+theme: night
+theme-override: assets/css/PITCHME.css
+background: assets/images/background.png
+background-size: cover
