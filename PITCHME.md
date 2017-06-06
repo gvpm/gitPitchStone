@@ -1,6 +1,3 @@
-<!---Wiki com comandos para GitPitch: https://github.com/gitpitch/gitpitch/wiki--->
-
-
 <!--- Marcadores para novos Slides --->
 <!--- "---" Novo slide horizontal--->
 <!--- "+++" Novo slide vertical--->
@@ -61,6 +58,11 @@ public class Hello{
 +++?video=assets/videos/sample.mp4
 
 ## Exemplo de vídeo no background
+
+<!----------------------------------------------->
+---?image=assets/images/bg2.png
+##### <span class="pd-gray">Wiki do GitPitch</span>
+https://github.com/gitpitch/gitpitch/wiki
 
 <!----------------------------------------------->
 ---?image=assets/images/bg2.png
