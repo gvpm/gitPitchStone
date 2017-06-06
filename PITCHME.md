@@ -17,31 +17,19 @@
 #VSLIDE?image=assets/images/bg3.png
 
 ```c#
-public static AbstractBusinessProcessor BuildBusinessProcessor(AffiliationOperationEnum operation) {
-            switch (operation) {
-                case AffiliationOperationEnum.InsertAffiliation:
-                case AffiliationOperationEnum.UpdateAffiliation:
-                case AffiliationOperationEnum.QueryAffiliation: {
-                        return new AffiliationProcessor();
-                    }
+using System;
 
-                case AffiliationOperationEnum.InsertAssociation:
-                case AffiliationOperationEnum.UpdateAssociation:
-                case AffiliationOperationEnum.QueryAssociation: {
-                        return new AssociationProcessor();
-                    }
+public class Hello{
 
-                case AffiliationOperationEnum.InsertBin:
-                case AffiliationOperationEnum.UpdateBin:
-                case AffiliationOperationEnum.QueryBin: {
-                        return new BinProcessor();
-                    }
+   public static void Main(){
 
-                default:
-                    return null;
-            }
-  ```
+      Console.WriteLine("Hello, World!");
+
+   }
+}
+```
 @[1]
-@[3]
-@[5-7]
+@[3-10]
+@[5-9]
+@[7]
   
