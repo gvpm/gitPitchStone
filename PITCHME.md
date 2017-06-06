@@ -1,6 +1,5 @@
-<!--- Marcadores para novos Slides --->
-<!--- "---" Novo slide horizontal--->
-<!--- "+++" Novo slide vertical--->
+<!---"---" = Novo slide horizontal--->
+<!---"+++" = Novo slide vertical--->
 
 ---?image=assets/images/bg2.png
 
