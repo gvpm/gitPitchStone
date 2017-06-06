@@ -1,3 +1,4 @@
+theme:moon
 theme-override: assets/css/PITCHME.css
 background: assets/images/background.png
 background-size: contain
