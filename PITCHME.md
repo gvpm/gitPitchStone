@@ -46,12 +46,9 @@ public class Hello{
 
 ![Video](http://techslides.com/demos/sample-videos/small.mp4)
 
-<!----------------------------------------------->
-<!---That is a background video for the next slide--->
----?video=http://techslides.com/demos/sample-videos/small.mp4
-## <span color="white">Exemplo com vídeo no Background</span>
+#VSLIDE?video=http://techslides.com/demos/sample-videos/small.mp4
 
-
+## <span class="pd-gray">Exemplo de vídeo no background</span>
 
 <!----------------------------------------------->
 #HSLIDE?image=assets/images/bg2.png
