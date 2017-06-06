@@ -1,5 +1,5 @@
-theme: moon
+theme: white
 theme-override: assets/css/PITCHME.css
 background: assets/images/background.png
-background-size: contain
+background-size: auto
 
