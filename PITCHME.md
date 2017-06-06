@@ -44,11 +44,11 @@ public class Hello{
 
 #VSLIDE?image=assets/images/bg3.png
 
-![Video](http://techslides.com/demos/sample-videos/small.mp4)
+![Video](assets/videos/sample.mp4)
 
-#VSLIDE?video=http://techslides.com/demos/sample-videos/small.mp4
+#VSLIDE?video=assets/videos/sample.mp4
 
-## <span class="pd-gray">Exemplo de vídeo no background</span>
+## Exemplo de vídeo no background
 
 <!----------------------------------------------->
 #HSLIDE?image=assets/images/bg2.png
