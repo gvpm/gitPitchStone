@@ -38,6 +38,11 @@ public class Hello{
 @[7]
 
 <!----------------------------------------------->
+#VSLIDE?image=assets/images/bg3.png?gist=8aa6dc8b1876169370131a3c58c3eee2
+
+
+
+<!----------------------------------------------->
 #HSLIDE?image=assets/images/bg3.png
 
 ## <span class="pd-gray">Vídeos</span>
