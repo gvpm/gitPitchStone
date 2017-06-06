@@ -39,8 +39,11 @@ public class Hello{
 ## <span class="pd-gray">Vídeos</span>
 
 #VSLIDE?image=assets/images/bg3.png
+![Video](http://techslides.com/demos/sample-videos/small.mp4)
 
-[![Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+#VSLIDE?image=assets/images/bg3.png
+---?video=http://techslides.com/demos/sample-videos/small.mp4
 
 
 #HSLIDE?image=assets/images/bg2.png
