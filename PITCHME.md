@@ -61,7 +61,7 @@ public class Hello{
 
 <!----------------------------------------------->
 ---?image=assets/images/bg2.png
-##### <span class="pd-gray">Wiki do GitPitch</span>
+#### <span class="pd-gray">Wiki do GitPitch</span>
 https://github.com/gitpitch/gitpitch/wiki
 
 <!----------------------------------------------->
