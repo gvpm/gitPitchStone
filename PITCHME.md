@@ -1,5 +1,5 @@
-<!---Wiki com comandos para GitPitch--->
-<!---https://github.com/gitpitch/gitpitch/wiki--->
+<!---Wiki com comandos para GitPitch: https://github.com/gitpitch/gitpitch/wiki--->
+
 
 <!--- Marcadores para novos Slides --->
 <!--- "---" Novo slide horizontal--->
