@@ -39,10 +39,12 @@ public class Hello{
 ## <span class="pd-gray">Vídeos</span>
 
 #VSLIDE?image=assets/images/bg3.png
+
 ![Video](http://techslides.com/demos/sample-videos/small.mp4)
 
 
 #VSLIDE?image=assets/images/bg3.png
+
 ---?video=http://techslides.com/demos/sample-videos/small.mp4
 
 
