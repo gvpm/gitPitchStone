@@ -52,6 +52,8 @@ public class Hello{
 
 #VSLIDE?image=assets/images/bg3.png
 
+## <span color="white">Exemplo com vídeo no Background</span>
+
 <!----------------------------------------------->
 #HSLIDE?image=assets/images/bg2.png
 ## <span class="pd-gray">Thanks!</span>
