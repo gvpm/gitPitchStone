@@ -3,6 +3,7 @@
 ## <span class="pd-gray">Título</span>
 ### <span class="pd-gray">Subtítulo</span>
 
+<!----------------------------------------------->
 #VSLIDE?image=assets/images/bg3.png
 <!---Substitua por sua foto na pasta--->
 <img src="assets/images/you.png" alt="You" style="width: 200px;"/>
@@ -10,10 +11,12 @@
 ### <span class="pd-gray">Seu Nome</span>
 ##### <span class="pd-gray">Texto</span>
 
+<!----------------------------------------------->
 #HSLIDE?image=assets/images/bg3.png
 
 ## <span class="pd-gray">Codes</span>
 
+<!----------------------------------------------->
 #VSLIDE?image=assets/images/bg3.png
 
 ```c#
@@ -34,6 +37,7 @@ public class Hello{
 @[5-9]
 @[7]
 
+<!----------------------------------------------->
 #HSLIDE?image=assets/images/bg3.png
 
 ## <span class="pd-gray">Vídeos</span>
@@ -42,12 +46,13 @@ public class Hello{
 
 ![Video](http://techslides.com/demos/sample-videos/small.mp4)
 
+<!----------------------------------------------->
+<!---That is a background video for the next slide--->
+---?video=http://techslides.com/demos/sample-videos/small.mp4
 
 #VSLIDE?image=assets/images/bg3.png
 
----?video=http://techslides.com/demos/sample-videos/small.mp4
-
-
+<!----------------------------------------------->
 #HSLIDE?image=assets/images/bg2.png
 ## <span class="pd-gray">Thanks!</span>
 
