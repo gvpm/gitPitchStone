@@ -38,7 +38,7 @@ public class Hello{
 @[7]
 
 <!----------------------------------------------->
-#VSLIDE?image=assets/images/bg3.png?gist=8aa6dc8b1876169370131a3c58c3eee2
+#VSLIDE?gist=8aa6dc8b1876169370131a3c58c3eee2
 
 
 
