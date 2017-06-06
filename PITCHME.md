@@ -5,5 +5,6 @@
 
 #VSLIDE?image=assets/images/bg3.png
 
+![You](assets/images/you.png)
 ### <span class="pd-gray">Seu Nome</span>
 ##### <span class="pd-gray">Texto</span>
