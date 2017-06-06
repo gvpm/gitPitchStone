@@ -1,6 +1,3 @@
-<!---"---" = Novo slide horizontal--->
-<!---"+++" = Novo slide vertical--->
-
 ---?image=assets/images/bg2.png
 
 ## <span class="pd-gray">Título</span>
